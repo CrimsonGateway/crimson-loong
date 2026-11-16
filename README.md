@@ -65,3 +65,7 @@ The other scripts in `tools/` are the test rig used while making the film: a hea
 
 - [three.js](https://github.com/mrdoob/three.js), MIT licence. The licence text is in `vendor/LICENSE` and the copyright banner is kept in the built page.
 - Made as an answer to scottstts' "Dragon's Nest", which used generated 3D assets; this one uses none.
+
+## Licence
+
+MIT, with the author's permission. The text is in `LICENSE`. three.js keeps its own (`vendor/LICENSE`).
